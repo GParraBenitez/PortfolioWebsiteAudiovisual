@@ -1,27 +1,26 @@
-# Gustavo's Portfolio
+# feitoemparra | Audiovisual Portfolio
 
-Welcome to my portfolio! 🚀 This repository contains a link to access my professional portfolio, showcasing my experience and skills in Quality Assurance within the Gaming Industry.
+Welcome to my portfolio! 🎬 This repository contains a link to access my audiovisual portfolio, showcasing my experience and skills in filmmaking, photography, and visual storytelling.
 
-## About Me
-Experienced professional with over 6 years of hands-on expertise in the dynamic field of Quality Assurance within the Gaming Industry.  
-I am currently focused on an exciting new professional chapter, building upon a solid foundation of experience. Most recently, I have served as a QA Analyst at **Side**, following impactful roles as Lead QA Analyst at **Petit Fabrik**, and QA positions at **Gixer Entertainment**, **DX Gameworks**, and **Garage 227 Studios**, where I developed a comprehensive understanding of game development processes and QA methodologies.
+## About the Creator
+**Welcome to feitoemparra.** 
 
-I am currently working at **762 Interactive**. 
+I am a São Paulo-based filmmaker and photographer currently studying Audiovisual Production at FAAP. I specialize in capturing the essence of 'slice of life' narratives, blending technical precision in cinematography and color grading with a deeply personal, nostalgic aesthetic. 
+
+From directing to post-production, my focus is always on authentic storytelling. My goal is to frame the everyday world with a cinematic eye, turning fleeting moments into lasting visual memories.
 
 ### Key Highlights:
-- Expertise in **comprehensive documentation**, meticulous **test cases**, and **strategic testing plans**.
-- Skilled in manual testing across multiple platforms:
-  - **Mobile:** Android
-  - **PC:** Steam, Microsoft Store, Epic Games Store
-  - **Consoles:** PS4, PS5 (PSVR 2), Nintendo Switch, Meta Quest 2, Xbox family
-- Proven ability to structure and enhance QA processes, implement functional and non-functional testing practices, and drive team alignment on quality initiatives.
+- Expertise in **cinematography**, meticulous **color grading** (DaVinci Resolve), and **directing**.
+- Skilled in capturing and producing **'slice of life'** narratives and authentic visual stories.
+- Hands-on experience with modern digital setups (including **Sony ZV-E10 II** workflows) to achieve cinematic textures.
+- Proven ability to manage the creative process from concept to post-production.
 
 ## Access the Portfolio
-Click the link below to explore my portfolio:
-👉 [Access Portfolio](https://gparrabenitez.github.io/PortfolioWebsite/)
+Click the link below to explore my visual work:
+👉 [Access Portfolio](https://gparrabenitez.github.io/PortfolioWebsiteAudiovisual/)
 
 ## Contact
-Feel free to reach out to me for opportunities or discussions about Quality Assurance in gaming:
+Feel free to reach out to me for collaborations, freelance opportunities, or discussions about cinema and photography:
 - **Email:** gustavoparrabenitez@gmail.com
 - **LinkedIn:** [www.linkedin.com/in/gustavo-p-78a52b19b](https://www.linkedin.com/in/gustavo-p-78a52b19b)
 
