@@ -93,7 +93,7 @@
                 transform: scale(1);
                 width: 100vw;
                 z-index: 0;
-                background-image: url('data:image/svg+xml;charset=utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20512%20512%22%20width%3D%22512%22%20height%3D%22512%22%20preserveAspectRatio%3D%22none%22%3E%20%3Cstyle%3E%20path%20%7B%20fill%3A%20none%3B%20stroke-width%3A%201.01px%3B%20stroke%3A%20rgba(255,255,255,0.702)%3B%20vector-effect%3A%20non-scaling-stroke%3B%20%7D%20%3C%2Fstyle%3E%20%3Cpath%20d%3D%22M448%2C512c0-128-128-128-128-256S448%2C128%2C448%2C0%22%20%2F%3E%20%3Cpath%20d%3D%22M192%2C512c0-128-128-128-128-256S192%2C128%2C192%2C0%22%20%2F%3E%3C%2Fsvg%3E'), linear-gradient(0deg, #000000 0%, #000000 100%);
+                background-image: url('data:image/svg+xml;charset=utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20512%20512%22%20width%3D%22512%22%20height%3D%22512%22%20preserveAspectRatio%3D%22none%22%3E%20%3Cstyle%3E%20path%20%7B%20fill%3A%20none%3B%20stroke-width%3A%201.01px%3B%20stroke%3A%20rgba(255,255,255,0.702)%3B%20vector-effect%3A%20non-scaling-stroke%3B%20%7D%20%3C%2Fstyle%3E%20%3Cpath%20d%3D%22M448%2C512c0-128-128-128-128-256S448%2C128%2C448%2C0%22%20%2F%3E%20%3Cpath%20d%3D%22M192%2C512c0-128-128-128-128-256S192%2C128%2C192%2C0%22%20%2F%3E%3C%2Fsvg%3E'), linear-gradient(0deg, #EDEBE6 0%, #F0F5F7 100%);
                 background-size: 820px, auto;
                 background-position: center, 0% 0%;
                 background-repeat: repeat, repeat;
@@ -234,7 +234,7 @@
                 position: relative;
                 text-align: var(--alignment);
                 z-index: 1;
-                background-color: #000000;
+                background-color: #FFFFFF;
                 background-image: url('data:image/svg+xml;charset=utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20512%20512%22%20width%3D%22512%22%20height%3D%22512%22%20preserveAspectRatio%3D%22none%22%3E%20%3Cstyle%3E%20path%20%7B%20fill%3A%20none%3B%20stroke-width%3A%201.01px%3B%20stroke%3A%20rgba(0,0,0,0.055)%3B%20vector-effect%3A%20non-scaling-stroke%3B%20%7D%20%3C%2Fstyle%3E%20%3Cpath%20d%3D%22M448%2C512c0-128-128-128-128-256S448%2C128%2C448%2C0%22%20%2F%3E%20%3Cpath%20d%3D%22M192%2C512c0-128-128-128-128-256S192%2C128%2C192%2C0%22%20%2F%3E%3C%2Fsvg%3E');
                 background-size: 994px;
                 background-position: center;
@@ -360,7 +360,7 @@
 
             h1.style3, h2.style3, h3.style3, p.style3 {
                 text-transform: uppercase;
-                color: #FFFFFF;
+                color: #5E5E5E;
                 font-family: 'Inter', sans-serif;
                 letter-spacing: 0.4rem;
                 width: calc(100% + 0.4rem);
@@ -388,7 +388,7 @@
             }
 
             h1.style1, h2.style1, h3.style1, p.style1 {
-                color: #FFFFFF;
+                color: #262626;
                 font-family: 'Manrope', sans-serif;
                 letter-spacing: -0.025rem;
                 width: 100%;
@@ -411,7 +411,7 @@
             }
 
             h1.style2, h2.style2, h3.style2, p.style2 {
-                color: #DDDDDD;
+                color: #8E8E8E;
                 font-family: 'Inter', sans-serif;
                 font-size: 1em;
                 line-height: 1.875;
@@ -1337,7 +1337,7 @@
 
             hr.style1:before {
                 width: 100%;
-                background-color: rgba(255,255,255,0.15);
+                background-color: rgba(0,0,0,0.055);
                 height: 1px;
             }
 
@@ -1413,8 +1413,8 @@
             }
 
             .buttons.style1 .button {
-                background-color: #FFFFFF;
-                color: #000000;
+                background-color: #262626;
+                color: #FFFFFF;
             }
 
             .buttons.style1 .button:hover {
@@ -1483,11 +1483,11 @@
             }
 
             .icons.style1 a svg {
-                fill: #FFFFFF;
+                fill: #262626;
             }
 
             .icons.style1 a {
-                border: solid 1px rgba(255,255,255,0.25);
+                border: solid 1px rgba(51,51,51,0.141);
             }
 
             .icons.style1 a:hover {
@@ -3100,7 +3100,7 @@
                             },
                         },
                     },
-                    regex: new RegExp('([a-zA-Z0-9\.\,\-\_"'\?\!\:\;\#\@\#$\%\&\(\)\{\}]+)','g'),
+                    regex: new RegExp('([a-zA-Z0-9\.\,\-\_\"\'\?\!\:\;\#\@\#$\%\&\(\)\{\}]+)','g'),
                     add: function(selector, settings) {
                         var _this = this, style = settings.style in this.effects ? settings.style : 'fade', speed = parseInt('speed'in settings ? settings.speed : 1000) / 1000, intensity = ((parseInt('intensity'in settings ? settings.intensity : 5) / 10) * 1.75) + 0.25, delay = parseInt('delay'in settings ? settings.delay : 0) / 1000, replay = 'replay'in settings ? settings.replay : false, stagger = 'stagger'in settings ? (parseInt(settings.stagger) >= 0 ? (parseInt(settings.stagger) / 1000) : false) : false, staggerOrder = 'staggerOrder'in settings ? settings.staggerOrder : 'default', staggerSelector = 'staggerSelector'in settings ? settings.staggerSelector : null, threshold = parseInt('threshold'in settings ? settings.threshold : 3), state = 'state'in settings ? settings.state : null, effect = this.effects[style], scrollEventThreshold;
                         if ('CARRD_DISABLE_ANIMATION'in window) {
@@ -3650,3 +3650,9 @@
         </script>
     </body>
 </html>
+
+
+
+
+
+
